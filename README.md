@@ -39,7 +39,7 @@ This command will generate the Invoice_reimbursement.exe program in the ./Invoic
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](<%= issuesUrl %>).
+Feel free to check [issues page](https://github.com/wuda1/Invoice_reimbursement/issues).
 
 ## Show your support
 
